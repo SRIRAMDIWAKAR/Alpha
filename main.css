@@ -1,0 +1,204 @@
+#img2{
+    /* border: 2px solid green; */
+    height: 350px;
+    width: 100%;
+    position: relative;
+    top: -50px;
+}
+#img2 h1{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #90b0ba;
+    border-radius: 100%;
+    color: antiquewhite;
+    transform: translate(150px);
+    margin-top: 50px;
+}
+#img2 h2{
+    padding-left: 120px;
+    color: rgb(172, 160, 160);
+} 
+#img2 p{
+    font-size: 19px;
+    padding-left: 30px;
+}
+#last{
+    /* border: 2px solid; */
+    height: 350px;
+    width: 500px;
+    transform: translate(830px);
+    position: relative;
+    top: -150px;
+}
+#last h1{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5cb95;;
+    border-radius: 100%;
+    margin-top: 50px;
+    transform: translate(165px);
+}
+#last h2{
+    padding-left:  120px; 
+    color: rgb(172, 160, 160);
+}
+#last p{
+    font-size: 19px;
+}
+#backa{
+    /* border: 2px solid; */
+    height: 1900px;
+    width: 100%;
+    background-image: url(./img/overlay.png);
+    
+}
+#sed{
+    /* border: 2px solid; */
+    width: 35%;
+    height: 600px;
+    position: relative;
+    top: 1200px;
+    margin-left: 200px;
+    background-color: #fff;
+    
+}
+#road{
+    height: 250px;
+    background-image: url(./img/pic02.jpg);
+    background-size: cover;
+    border-radius: 5%;
+}
+#sed h1{
+    margin-top: 35px;
+    padding-left: 80px;
+    color: rgb(172, 160, 160);
+}
+#sed p{
+    margin-top: 10px;
+    padding-left: 25px;
+    font-size: 20px;
+}
+#sed button{
+    height: 50px;
+    width: 200px;
+    margin-left: 120px;
+    font-size: 20px;
+
+}
+#sed1{
+    /* border: 2px solid; */
+    width: 35%;
+    height: 600px;
+    position: relative;
+    top: 600px;
+    margin-left: 809px;
+    background-color: #fff;
+}
+#human{
+    height: 250px;
+    background-image: url(./img/pic03.jpg);
+    background-size: cover;
+    border-radius: 5%;
+}
+#sed1 h1{
+    color: rgb(172, 160, 160);
+    margin-top: 35px;
+    padding-left: 80px;
+}
+#sed1 p{
+    margin-top: 10px;
+    padding-left: 25px;
+    font-size: 20px;
+}
+#sed1 button{
+    height: 50px;
+    width: 200px;
+    margin-left: 120px;
+    font-size: 20px;
+
+}
+#ora{
+    /* border: 2px solid; */
+    height: 400px;
+    width: 100%;
+    background-color: #e89980;
+    position: relative;
+    top: -75px;
+}
+#ora1{
+    /* border: 2px solid white; */
+    height: 300px;
+    width: 40%;
+    margin: auto; 
+    position: relative;
+    top: 50px;
+}
+#ora1 h1{
+    color: #e6dddd;
+    font-size: 30px;
+    margin-top: 50px;
+    padding-left: 100px;
+}
+#ora1 p{
+    font-size: 18px;
+    padding-left: 5px;
+    color: #e6dddd;
+}
+#ora1 input{
+    font-size: 25px;
+    width: 220px;
+    margin-left: 100px;
+    background-color: #e6dddd;;
+}
+#ora1 button{
+    font-size: 25px;
+    margin-left:25px ;
+}
+#final{
+    /* border: 2px solid; */
+    height: 350px;
+    width: 100%;
+    background-image: url(./img/overlay.png);
+    position: relative;
+    top: 100px;
+}
+#final1{
+    /* border: 2px solid; */
+    height: 150px;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top: 50px;
+    
+}
+#final2{
+    /* border: 2px solid; */
+    height: 50px;
+    width: 60%;
+    margin-left: 100px;
+    color: #2f2828;
+}
+#final1 ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-around; 
+}
+#final1 ol li{
+    font-size: 40px;
+    justify-content: space-evenly; 
+}
+#lin{
+    display: flex;
+   padding-left: 20px;
+   color: #2f2828;
+}
+#lin p a{
+    text-decoration: none;
+    color: #2f2828;
+}
